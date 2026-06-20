@@ -4,7 +4,7 @@ A web-based marketplace solution designed to streamline product management, orde
 
 ## Live Demo
 
-🔗 Project URL:https://multi-marketplace001.bolt.host/
+🔗 Project URL:https://multi-marketplace001.bolt.host
 
 ## Features
 
